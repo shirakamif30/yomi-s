@@ -6,8 +6,8 @@ A high-quality Discord leveling system with cultivation-themed roles and HD rank
 
 ## 📋 CHANGELOG — Pembaruan Kode
 
-> **⚠️ PENTING UNTUK AI AGENT:** Bagian ini wajib dibaca sebelum melakukan perubahan kode.
-> Setiap pembaruan **HARUS** dicatat di sini dengan format yang sama agar agent AI selanjutnya
+> **⚠️ PENTING :** Bagian ini wajib dibaca sebelum melakukan perubahan kode.
+> Setiap pembaruan **HARUS** dicatat di sini dengan format yang sama agar selanjutnya
 > dapat memahami riwayat perubahan tanpa harus membaca seluruh kode.
 
 ### Format Entri Changelog
@@ -32,20 +32,20 @@ A high-quality Discord leveling system with cultivation-themed roles and HD rank
   - Auto role assignment saat user level up
   - Anti-spam cooldown 60 detik per pesan
   - Token disimpan di `config.json` (karena env token di-lock pada host)
-- **Alasan:** Pembuatan awal bot sesuai permintaan user
+- **Alasan:** Pembuatan awal bot 
 - **Status:** ✅ Selesai
 
 ---
 
 ### [2026-07-12] Changelog Section Ditambahkan
 - **File yang diubah:** `README.md`
-- **Apa yang berubah:** Menambahkan section CHANGELOG agar AI agent masa depan dapat melacak perubahan kode
-- **Alasan:** User meminta baris pembaruan terbaru sebagai pengingat untuk agent AI jika berganti
+- **Apa yang berubah:** Menambahkan section CHANGELOG agar masa depan dapat melacak perubahan kode
+- **Alasan:**  baris pembaruan terbaru sebagai pengingat 
 - **Status:** ✅ Selesai
 
 ---
 
-## Catatan untuk AI Agent
+## Catatan untuk siapapun
 
 1. **SELALU update section CHANGELOG** di atas setiap kali mengubah kode
 2. **Jangan hapus entri lama** — tambahkan entri baru di bagian paling atas (setelah header)
