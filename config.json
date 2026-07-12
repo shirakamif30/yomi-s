@@ -1,0 +1,11 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "clientId": "YOUR_CLIENT_ID_HERE",
+  "leveling": {
+    "xpMin": 15,
+    "xpMax": 25,
+    "cooldownMs": 60000,
+    "baseXp": 100,
+    "multiplier": 1.5
+  }
+}
