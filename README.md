@@ -63,9 +63,7 @@ Edit `config.json`:
 }
 ```
 
-## Hosting on Anjas.id
 
-This bot is configured for Node.js 24 hosting on anjas.id:
 - **Startup file**: `index.js`
 - **Token storage**: `config.json` (since env token is locked)
 
